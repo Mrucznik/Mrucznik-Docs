@@ -4,7 +4,7 @@
 * Nowo zarejestrowany użytkownik automatycznie akceptuje regulamin forum oraz politykę prywatności.
 * Nowo zarejestrowany użytkownik jest automatycznie przekierowywana na rangę jako użytkownik forum, który jest zobowiązany do przestrzegania punktów zawartych w regulaminie, dodatkowo jest świadomy, że jego konto może zostać odcięte z możliwego dostępu z podanych powodów.
 * Każdy użytkownik jest zobowiązany do zabezpieczenia swojego konta globalnego hasłem, którego posiadać i znać może tylko osoba posiadająca dostęp do konta, użytkownik ponosi odpowiedzialność za czyny wynikające z jego winy, administracja nie ponosi odpowiedzialności za błędy użytkowników oraz nie zwraca szkód.
-* Administracja forum, zarząd serwera zastrzega sobie prawo w ingerencję w konta użytkowników oraz zastrzega prawo do kasacji kont, użytkownik jest w pełni świadomy, że konto nie może zostać skasowane za jego prośbą * wszelkie dane są chronione i przechowywane, dane nie są udostępniane w żaden sposób dla osób trzecich.
+* Administracja forum, zarząd serwera zastrzega sobie prawo w ingerencję w konta użytkowników oraz zastrzega prawo do kasacji kont, użytkownik jest w pełni świadomy, że konto nie może zostać skasowane za jego prośbą - wszelkie dane są chronione i przechowywane, dane nie są udostępniane w żaden sposób dla osób trzecich.
 * Administracja i inne grupy zastrzega sobie prawo do udostępniania danych o użytkownikach forum {adresy ip, e-maile, loginy, dane logowań, hosty}.
 * Treści widoczne na forum, regulaminy, działy są ujęte prawami autorskimi.
 * Treści, które mają na celu promocję innych projektów są surowo zabronione.
@@ -20,13 +20,13 @@
 * Błędy oraz niedopatrzenia należy zgłaszać Administratorowi Forum, zakazuje się wykorzystywania błędów dla własnych korzyści, oraz udostępniania dla osób trzecich.
 * Zakaz stosowania jakichkolwiek technik mających na celu utrudnienie rozpoznania lub weryfikacji użytkownika.
 * Treści na forum pisane z licznymi i celowymi błędami ortograficznymi, obrazami, wulgaryzmami skutkują karze na forum decydującej przez moderatora.
-* Nadmierne używanie słów wulgarnych, wyzwiska, hejt, trollowanie * skutkuje karą nadaną przez moderatora. W powyższe punkty wchodzą rzeczy takie jak prywatne wiadomości, statusy, posty, tematy, panel gracza. Karze podlega zarówno osoba, która wykonuje powyższe czyny oraz ta, która wdaje się w działania, oraz też nakłania do działań.
+* Nadmierne używanie słów wulgarnych, wyzwiska, hejt, trollowanie - skutkuje karą nadaną przez moderatora. W powyższe punkty wchodzą rzeczy takie jak prywatne wiadomości, statusy, posty, tematy, panel gracza. Karze podlega zarówno osoba, która wykonuje powyższe czyny oraz ta, która wdaje się w działania, oraz też nakłania do działań.
 * Zakazuje się umieszczanie ofert handlowych, linków w celach zarobkowych na całym forum, karą może być nawet odcięcie od dostępu do serwera SA-MP oraz forum.
 * Nazwa użytkownika nie może być wulgarna i w żaden sposób prowokacyjna, zastrzega się również błędów ortograficznych.
 
 ## Prawa moderatora.
 * Moderator ma prawo do ukarania użytkownika, jeśli ten dopatrzy się treści niezgodnych z regulaminem forum.
-* Moderator ma prawo zamknąć temat, który jest zamieszczony w złym dziale, bądź jest niezgodny z regulaminem * moderator musi dopisać argument wykonywanego czynu.
+* Moderator ma prawo zamknąć temat, który jest zamieszczony w złym dziale, bądź jest niezgodny z regulaminem - moderator musi dopisać argument wykonywanego czynu.
 * Typ kary, oraz czas zależy od moderatora, pamiętajmy, że kara nie może być zbyt surowa:
 * blokada pisania nie może przekraczać 3 dni, wraz z zawieszeniem tworzenia zawartości.
 * możliwość apelowania od warnów możliwa jest po upływie dwóch dni od nadania kary przez moderatora.
