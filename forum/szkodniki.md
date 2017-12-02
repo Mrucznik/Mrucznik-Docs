@@ -54,6 +54,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
 * [David King (David\_/BooYah)](http://mrucznik-rp.pl/user/605-david-king/)
 * [habemus krzysztof/hersh](https://mrucznik-rp.pl/user/3899-habemus-krzysztof/)
 * [Holltrailer](http://mrucznik-rp.pl/user/359-holltrailer/)
+* [KobaltowyEryk/AlbertStulej](https://mrucznik-rp.pl/user/301-kobaltowyeryk/) - masa multikont, offtop, obrazy
 
 
 
