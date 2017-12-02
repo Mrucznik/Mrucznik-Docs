@@ -13,7 +13,6 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [Bagieta](https://mrucznik-rp.pl/user/769-bagieta/) - liczne obrazy administracji i użytkowników, brak kultury, multikonta, propagowanie osoby prywatnej (tematy szkalujące realnego gracza), wyśmiewanie się, poniżanie, wyzwiska.
 * [Arwex](https://mrucznik-rp.pl/user/408-arwex/) - multikonta, treści pornograficzne
 * [Dyzmiontko](https://mrucznik-rp.pl/user/663-dyzmiontko/) - 38 warnów, liczne obrazy, brak kultury, groźby, rozpowszechnianie wizerunku gracza
-* [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - 33 warny, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa
 * [glo up](https://mrucznik-rp.pl/user/7840-glo-up/) - obrazy, reklama konkurencji
 * [domciodog](https://mrucznik-rp.pl/user/262-domciodog/) - 23 warny, obrazy użytkowników i administracji
 * [Andrzej](https://mrucznik-rp.pl/user/287-andrzej/) - 64 warny, trolling, oszustwa, wykorzystywanie wizerunku graczy (przerabianie & wklejanie twarzy), ciągły offtop, celowe błędy ortograficzne, śmieciowe tematy, wulgryzmy
@@ -30,6 +29,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
 * [wojtek brkln](https://mrucznik-rp.pl/user/569-wojtek-brkln/)
 * [dinol mie swendzi](https://mrucznik-rp.pl/user/497-dinol-mie-swendzi/)
 * [\_Daniel\_](https://mrucznik-rp.pl/user/229-daniel/)
+* [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - 33 warny, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa
 
 ## Na celowniku
 Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
@@ -76,3 +76,4 @@ Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [LuuckyDice](https://mrucznik-rp.pl/user/8703-luuckydice/)
 * [kkuubbaa](https://mrucznik-rp.pl/user/557-kkuubbaa/)
 * [J rrye](https://mrucznik-rp.pl/user/78-j-rrye/)
+* [K E V L A R](https://mrucznik-rp.pl/user/7632-k-e-v-l-a-r/)
