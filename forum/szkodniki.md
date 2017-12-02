@@ -21,6 +21,7 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [Sevenity](https://mrucznik-rp.pl/user/584-sevenity/) - udostępnianie prywatynch danych użytkownika, nadużywanie uprawnień, obrazy
 * [plewa](https://mrucznik-rp.pl/user/368-plewa/) - liczne obrazy, multikonta, nagminny offtop, spora kolekcja warnów
 * [gandalf](https://mrucznik-rp.pl/user/3465-gandalf/) - liczne obrazy i multikonta, offtop, ogromna kolekcja warnów (67 - zaraz za ALIBXBA)
+* [myszka miki toja/emiltoja](https://mrucznik-rp.pl/user/8499-paprotka-toja/) - wrzucanie fotek sandry, masa warnów, liczne multikonta, brak poprawy
 
 ## Kandydaci do listy bez unbana
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
@@ -30,50 +31,55 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
 * [dinol mie swendzi](https://mrucznik-rp.pl/user/497-dinol-mie-swendzi/)
 * [\_Daniel\_](https://mrucznik-rp.pl/user/229-daniel/)
 * [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - 33 warny, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa
+* [Connasse/Hey/Dżemik](https://mrucznik-rp.pl/user/4336-connasse/) - 72 notek (2 grudnia 2017), celowe błędy ortograficzne, offtop, spam, trolling, brak kultury, szambo na forum, obrazy, totalny brak poprawy
+* [hesho](https://mrucznik-rp.pl/user/5669-hesho-g-star/)- 67 warnów (2 grudnia 2017), liczne orbazy, brak kultury, nagminne wulgaryzmy, ogólne szambo
+* [JOSEF MENGELE/wojtek brooklyn](https://mrucznik-rp.pl/user/569-josef-mengele/) - 62 warnów (2 grudnia 2017), liczne obrazy, offtop, brak kultury, nagminne wulgaryzmy, ogólne szambo
+* [jmpr ue](http://mrucznik-rp.pl/user/1175-jmpr-ue/) - 60 warnów (2 grudnia 2017), obrazy, offtop, brak poprawy, ogólne szkodzenie
+* [\_Patrykoo\_](http://mrucznik-rp.pl/user/150-patrykoo/) - 56 warnów (2 grudnia 2017), liczne obrazy, offtop, nagminne wulgaryzmy, brak poprawy
+* [fidif](https://mrucznik-rp.pl/user/306-fidif/) - 52 warny (2 grudnia 2017), masa notatek za orbazy, brak poprawy, offtop, totalny brak kultury i szans na poprawe
+* [Pan Morisson](https://mrucznik-rp.pl/user/531-pan-morisson/) - 51 warnów (2 grudnia 2017), liczny offtop, obrazy, ogólne szambo, brak poprawy
+* [ala](https://mrucznik-rp.pl/user/3272-ala/) - 52 warny (2 grudnia 2017), liczny offtop, celowe błędy ortograficzne, obrazy, brak szans na poprawe
+* [en6x](http://mrucznik-rp.pl/user/4791-en6x/) - 49 warnów (2 grudnia 2017), liczne obrazy, offtop, brak szansy na poprawe
+* [Shaggy](https://mrucznik-rp.pl/user/325-shaggy/)
+* [LuuckyDice](https://mrucznik-rp.pl/user/8703-luuckydice/)
+* [Snopek](http://mrucznik-rp.pl/user/735-snopek-essa/)
+* [OYCHE DONIZ](http://mrucznik-rp.pl/user/911-oyche-doniz/)
+* [don faraone](https://mrucznik-rp.pl/user/1119-lil-frachty/)
+* [PRT](https://mrucznik-rp.pl/user/267-prt/)
+* [Konto Dezaktywowane (Campil Trooper)](https://mrucznik-rp.pl/user/6917-konto-dezaktywowane/)
+* [Mistrz](https://mrucznik-rp.pl/user/1583-mistrz/)
+* [levisjeans](https://mrucznik-rp.pl/user/3388-etylonorheksedron/)
+* [sasquatch](http://mrucznik-rp.pl/user/608-sasquatch/)
+* [Oficer](http://mrucznik-rp.pl/user/98-oficer/)
+* [David King (David\_/BooYah)](http://mrucznik-rp.pl/user/605-david-king/)
+* [habemus krzysztof/hersh](https://mrucznik-rp.pl/user/3899-habemus-krzysztof/)
+* [Holltrailer](http://mrucznik-rp.pl/user/359-holltrailer/)
+
+
 
 ## Na celowniku
 Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
-* [\_Patrykoo\_](http://mrucznik-rp.pl/user/150-patrykoo/)
-* [jmpr ue](http://mrucznik-rp.pl/user/1175-jmpr-ue/)
-* [Oficer](http://mrucznik-rp.pl/user/98-oficer/)
-* [David King (David\_/BooYah)](http://mrucznik-rp.pl/user/605-david-king/)
-* [en6x](http://mrucznik-rp.pl/user/4791-en6x/)
-* ~~[qetsiyah](http://mrucznik-rp.pl/user/252-qetsiyah/)~~
-* [OYCHE DONIZ](http://mrucznik-rp.pl/user/911-oyche-doniz/)
-* [sasquatch](http://mrucznik-rp.pl/user/608-sasquatch/)
+* [qetsiyah](http://mrucznik-rp.pl/user/252-qetsiyah/)/[Beverly Rockmond](https://mrucznik-rp.pl/user/14628-beverly-rockmond/)
 * [marsjanin](http://mrucznik-rp.pl/user/843-marsjanin/)
 * [Konradek](http://mrucznik-rp.pl/user/176-konradek/)
-* [Snopek](http://mrucznik-rp.pl/user/735-snopek-essa/)
-* [Holltrailer](http://mrucznik-rp.pl/user/359-holltrailer/)
 * [\_Klemuś\_](http://mrucznik-rp.pl/user/145-klemuś/)
 * [Carlito](http://mrucznik-rp.pl/user/94-carlito/)
 * [frsh looney](http://mrucznik-rp.pl/user/5669-looney/)
 * [U5S8\_E2R1](http://mrucznik-rp.pl/user/5821-u5s8-e2r1/)
-* [luccese](http://mrucznik-rp.pl/user/347-luccese/)
 * [creey](http://mrucznik-rp.pl/user/56-creey/)
 * [Shinigami](http://mrucznik-rp.pl/user/114-shinigami/)
 * [kkuubbaa](http://mrucznik-rp.pl/user/557-jjnsz/)
 * [DOPEHOOD](http://mrucznik-rp.pl/user/619-dopehood/)
-* [Dżemik](https://mrucznik-rp.pl/user/4336-d%C5%BCemik/)
-* [hesho](https://mrucznik-rp.pl/user/5669-hesho-g-star/)
-* [snopek](https://mrucznik-rp.pl/user/735-happy-snopek/)
-* [Konto Dezaktywowane (Campil Trooper)](https://mrucznik-rp.pl/user/6917-konto-dezaktywowane/)
-* [fidif](https://mrucznik-rp.pl/user/306-fidif/)
-* [Pan Morisson](https://mrucznik-rp.pl/user/531-pan-morisson/)
-* [ala](https://mrucznik-rp.pl/user/3272-ala/)
-* [Holltrailer](https://mrucznik-rp.pl/user/359-holltrailer/)
 * [szefuncio](https://mrucznik-rp.pl/user/1330-szefuncio/)
-* [Sasquatch](https://mrucznik-rp.pl/user/608-sasquatch/)
-* [habemus krzysztof](https://mrucznik-rp.pl/user/3899-habemus-krzysztof/)
-* [Shaggy](https://mrucznik-rp.pl/user/325-shaggy/)
 * [sh0z](https://mrucznik-rp.pl/user/172-sh0z/)
 * [użytkownik pepek](https://mrucznik-rp.pl/user/84-u%C5%BCytkownik-pepek/)
 * [Stróż Prowa](https://mrucznik-rp.pl/user/960-str%C3%B3%C5%BC-prowa/)
 * [Bubi](https://mrucznik-rp.pl/user/564-bubi/)
-* [PRT](https://mrucznik-rp.pl/user/267-prt/)
 * [0\_Tomek](https://mrucznik-rp.pl/user/8216-0-tomek/)
-* [etylonorheksedron](https://mrucznik-rp.pl/user/3388-etylonorheksedron/)
 * [LuuckyDice](https://mrucznik-rp.pl/user/8703-luuckydice/)
 * [kkuubbaa](https://mrucznik-rp.pl/user/557-kkuubbaa/)
 * [J rrye](https://mrucznik-rp.pl/user/78-j-rrye/)
 * [K E V L A R](https://mrucznik-rp.pl/user/7632-k-e-v-l-a-r/)
+* [KVMIL](https://mrucznik-rp.pl/user/1187-kvmil/)
+* [Bradus/Braduś](https://mrucznik-rp.pl/user/384-bradus/)
+* [cymbalista vjed/niceczłowiek/5777](https://mrucznik-rp.pl/user/8615-cymbalista-vjed/)
