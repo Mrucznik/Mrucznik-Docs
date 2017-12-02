@@ -64,7 +64,6 @@ Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [Konradek](http://mrucznik-rp.pl/user/176-konradek/)
 * [\_Klemuś\_](http://mrucznik-rp.pl/user/145-klemuś/)
 * [Carlito](http://mrucznik-rp.pl/user/94-carlito/)
-* [frsh looney](http://mrucznik-rp.pl/user/5669-looney/)
 * [U5S8\_E2R1](http://mrucznik-rp.pl/user/5821-u5s8-e2r1/)
 * [creey](http://mrucznik-rp.pl/user/56-creey/)
 * [Shinigami](http://mrucznik-rp.pl/user/114-shinigami/)
