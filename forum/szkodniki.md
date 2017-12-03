@@ -22,6 +22,7 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [plewa](https://mrucznik-rp.pl/user/368-plewa/) - liczne obrazy, multikonta, nagminny offtop, spora kolekcja warnów
 * [gandalf](https://mrucznik-rp.pl/user/3465-gandalf/) - liczne obrazy i multikonta, offtop, ogromna kolekcja warnów (67 - zaraz za ALIBXBA)
 * [myszka miki toja/emiltoja](https://mrucznik-rp.pl/user/8499-paprotka-toja/) - wrzucanie fotek sandry, masa warnów, liczne multikonta, brak poprawy
+* [psz](https://mrucznik-rp.pl/user/417-psz/) - ddos forum, szkalowanie papieża, masa multikont, handel kontem, szkodnik no. 1
 
 ## Kandydaci do listy bez unbana
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
