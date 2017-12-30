@@ -56,6 +56,9 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
 * [habemus krzysztof/hersh](https://mrucznik-rp.pl/user/3899-habemus-krzysztof/)
 * [Holltrailer](http://mrucznik-rp.pl/user/359-holltrailer/)
 * [KobaltowyEryk/AlbertStulej](https://mrucznik-rp.pl/user/301-kobaltowyeryk/) - masa multikont, offtop, obrazy
+* [PHC](https://mrucznik-rp.pl/user/194-phc/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
+* [Koraliczek](https://mrucznik-rp.pl/user/15075-koraliczek/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
+* [Bleku/Blekuś](https://mrucznik-rp.pl/user/9598-bleku%C5%9B/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
 
 
 
