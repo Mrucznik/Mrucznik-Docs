@@ -18,7 +18,6 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [Andrzej](https://mrucznik-rp.pl/user/287-andrzej/) - 64 warny, trolling, oszustwa, wykorzystywanie wizerunku graczy (przerabianie & wklejanie twarzy), ciągły offtop, celowe błędy ortograficzne, śmieciowe tematy, wulgryzmy
 * [ALIBXBA](https://mrucznik-rp.pl/user/234-alibxba/) - szkodnik no. 1, top 1 warnów [71 notek] 31 marca 2017, liczne obrazy serwera, administracji, graczy, offtop, hejt, brak kultury
 * [Vegan](https://mrucznik-rp.pl/user/1509-vegan/) - rozpowszechnianie filmów z czitowaniem, boruty, treści pornograficzne, liczne obrazy, trolling
-* [Sevenity](https://mrucznik-rp.pl/user/584-sevenity/) - udostępnianie prywatynch danych użytkownika, nadużywanie uprawnień, obrazy
 * [plewa](https://mrucznik-rp.pl/user/368-plewa/) - liczne obrazy, multikonta, nagminny offtop, spora kolekcja warnów
 * [gandalf](https://mrucznik-rp.pl/user/3465-gandalf/) - liczne obrazy i multikonta, offtop, ogromna kolekcja warnów (67 - zaraz za ALIBXBA)
 * [myszka miki toja/emiltoja](https://mrucznik-rp.pl/user/8499-paprotka-toja/) - wrzucanie fotek sandry, masa warnów, liczne multikonta, brak poprawy
@@ -26,6 +25,7 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 
 ## Kandydaci do listy bez unbana
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
+* [Sevenity](https://mrucznik-rp.pl/user/584-sevenity/) - udostępnianie prywatynch danych użytkownika, nadużywanie uprawnień, obrazy
 * [kildra](https://mrucznik-rp.pl/user/7824-kildra/)
 * [Lawrance/myszka miki toja](https://mrucznik-rp.pl/user/8499-myszka-miki-toja/)
 * [wojtek brkln](https://mrucznik-rp.pl/user/569-wojtek-brkln/)
