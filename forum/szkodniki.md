@@ -28,7 +28,6 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
 * [Sevenity](https://mrucznik-rp.pl/user/584-sevenity/) - udostępnianie prywatynch danych użytkownika, nadużywanie uprawnień, obrazy
 * [kildra](https://mrucznik-rp.pl/user/7824-kildra/)
-* [Lawrance/myszka miki toja](https://mrucznik-rp.pl/user/8499-myszka-miki-toja/)
 * [wojtek brkln](https://mrucznik-rp.pl/user/569-wojtek-brkln/)
 * [dinol mie swendzi](https://mrucznik-rp.pl/user/497-dinol-mie-swendzi/)
 * [\_Daniel\_](https://mrucznik-rp.pl/user/229-daniel/)
