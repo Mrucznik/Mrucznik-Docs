@@ -22,6 +22,7 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [gandalf](https://mrucznik-rp.pl/user/3465-gandalf/) - liczne obrazy i multikonta, offtop, ogromna kolekcja warnów (67 - zaraz za ALIBXBA)
 * [myszka miki toja/emiltoja](https://mrucznik-rp.pl/user/8499-paprotka-toja/) - wrzucanie fotek sandry, masa warnów, liczne multikonta, brak poprawy
 * [psz](https://mrucznik-rp.pl/user/417-psz/) - ddos forum, szkalowanie papieża, masa multikont, handel kontem, szkodnik no. 1
+* [ala](https://mrucznik-rp.pl/user/3272-ala/) - 52 warny (2 grudnia 2017), liczny offtop, celowe błędy ortograficzne, obrazy, brak szans na poprawe, udostępnianie prywatnej korespondencji użytkowników
 
 ## Kandydaci do listy bez unbana
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
@@ -39,7 +40,6 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
 * [\_Patrykoo\_](http://mrucznik-rp.pl/user/150-patrykoo/) - 56 warnów (2 grudnia 2017), liczne obrazy, offtop, nagminne wulgaryzmy, brak poprawy
 * [fidif](https://mrucznik-rp.pl/user/306-fidif/) - 52 warny (2 grudnia 2017), masa notatek za orbazy, brak poprawy, offtop, totalny brak kultury i szans na poprawe
 * [Pan Morisson](https://mrucznik-rp.pl/user/531-pan-morisson/) - 51 warnów (2 grudnia 2017), liczny offtop, obrazy, ogólne szambo, brak poprawy
-* [ala](https://mrucznik-rp.pl/user/3272-ala/) - 52 warny (2 grudnia 2017), liczny offtop, celowe błędy ortograficzne, obrazy, brak szans na poprawe
 * [en6x](http://mrucznik-rp.pl/user/4791-en6x/) - 49 warnów (2 grudnia 2017), liczne obrazy, offtop, brak szansy na poprawe
 * [Shaggy](https://mrucznik-rp.pl/user/325-shaggy/)
 * [LuuckyDice](https://mrucznik-rp.pl/user/8703-luuckydice/)
