@@ -79,7 +79,6 @@ Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [Stróż Prowa](https://mrucznik-rp.pl/user/960-str%C3%B3%C5%BC-prowa/)
 * [Bubi](https://mrucznik-rp.pl/user/564-bubi/)
 * [0\_Tomek](https://mrucznik-rp.pl/user/8216-0-tomek/)
-* [LuuckyDice](https://mrucznik-rp.pl/user/8703-luuckydice/)
 * [kkuubbaa](https://mrucznik-rp.pl/user/557-kkuubbaa/)
 * [J rrye](https://mrucznik-rp.pl/user/78-j-rrye/)
 * [K E V L A R](https://mrucznik-rp.pl/user/7632-k-e-v-l-a-r/)
