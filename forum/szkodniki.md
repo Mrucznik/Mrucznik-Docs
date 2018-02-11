@@ -23,10 +23,10 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [myszka miki toja/emiltoja](https://mrucznik-rp.pl/user/8499-paprotka-toja/) - wrzucanie fotek sandry, masa warnów, liczne multikonta, brak poprawy
 * [psz](https://mrucznik-rp.pl/user/417-psz/) - ddos forum, szkalowanie papieża, masa multikont, handel kontem, szkodnik no. 1
 * [ala](https://mrucznik-rp.pl/user/3272-ala/) - 52 warny (2 grudnia 2017), liczny offtop, celowe błędy ortograficzne, obrazy, brak szans na poprawe, udostępnianie prywatnej korespondencji użytkowników
+* [Sevenity](https://mrucznik-rp.pl/user/584-sevenity/) - udostępnianie prywatynch danych użytkownika, nadużywanie uprawnień, obrazy, włam na konto byłego administratora, wyciek danych ze slacka, zmarnowanie szansy i złamanie zasad cyrografu
 
 ## Kandydaci do listy bez unbana
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
-* [Sevenity](https://mrucznik-rp.pl/user/584-sevenity/) - udostępnianie prywatynch danych użytkownika, nadużywanie uprawnień, obrazy
 * [kildra](https://mrucznik-rp.pl/user/7824-kildra/)
 * [wojtek brkln](https://mrucznik-rp.pl/user/569-wojtek-brkln/)
 * [dinol mie swendzi](https://mrucznik-rp.pl/user/497-dinol-mie-swendzi/)
