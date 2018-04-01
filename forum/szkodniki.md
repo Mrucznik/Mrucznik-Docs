@@ -24,6 +24,9 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [psz](https://mrucznik-rp.pl/user/417-psz/) - ddos forum, szkalowanie papieża, masa multikont, handel kontem, szkodnik no. 1
 * [ala](https://mrucznik-rp.pl/user/3272-ala/) - 52 warny (2 grudnia 2017), liczny offtop, celowe błędy ortograficzne, obrazy, brak szans na poprawe, udostępnianie prywatnej korespondencji użytkowników
 * [Sevenity](https://mrucznik-rp.pl/user/584-sevenity/) - udostępnianie prywatynch danych użytkownika, nadużywanie uprawnień, obrazy, włam na konto byłego administratora, wyciek danych ze slacka, zmarnowanie szansy i złamanie zasad cyrografu
+* [qetsiyah](http://mrucznik-rp.pl/user/252-qetsiyah/)/[Beverly Rockmond](https://mrucznik-rp.pl/user/14628-beverly-rockmond/) sell hajsu, lista bez ub, liczne multikonta, powrót po definitywnym usunięciu konta
+* [kotgio](https://mrucznik-rp.pl/user/2428-kotgio/) - sell hajsu
+
 
 ## Kandydaci do listy bez unbana
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
@@ -64,7 +67,6 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
 
 ## Na celowniku
 Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
-* [qetsiyah](http://mrucznik-rp.pl/user/252-qetsiyah/)/[Beverly Rockmond](https://mrucznik-rp.pl/user/14628-beverly-rockmond/)
 * [marsjanin](http://mrucznik-rp.pl/user/843-marsjanin/)
 * [Konradek](http://mrucznik-rp.pl/user/176-konradek/)
 * [\_Klemuś\_](http://mrucznik-rp.pl/user/145-klemuś/)
