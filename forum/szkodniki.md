@@ -26,6 +26,7 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [Sevenity](https://mrucznik-rp.pl/user/584-sevenity/) - udostępnianie prywatynch danych użytkownika, nadużywanie uprawnień, obrazy, włam na konto byłego administratora, wyciek danych ze slacka, zmarnowanie szansy i złamanie zasad cyrografu
 * [qetsiyah](http://mrucznik-rp.pl/user/252-qetsiyah/)/[Beverly Rockmond](https://mrucznik-rp.pl/user/14628-beverly-rockmond/) sell hajsu, lista bez ub, liczne multikonta, powrót po definitywnym usunięciu konta
 * [kotgio](https://mrucznik-rp.pl/user/2428-kotgio/) - sell hajsu
+* [Galway Girl](https://mrucznik-rp.pl/user/10380-galway-girl/) - liczny offtop, obrazy, kolekcja warnów, niewykorzystana szansa.
 
 
 ## Kandydaci do listy bez unbana
