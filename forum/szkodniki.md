@@ -27,6 +27,7 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [qetsiyah](http://mrucznik-rp.pl/user/252-qetsiyah/)/[Beverly Rockmond](https://mrucznik-rp.pl/user/14628-beverly-rockmond/) sell hajsu, lista bez ub, liczne multikonta, powrót po definitywnym usunięciu konta
 * [kotgio](https://mrucznik-rp.pl/user/2428-kotgio/) - sell hajsu
 * [Galway Girl](https://mrucznik-rp.pl/user/10380-galway-girl/) - liczny offtop, obrazy, kolekcja warnów, niewykorzystana szansa.
+* [Oficer](http://mrucznik-rp.pl/user/98-oficer/) - liczne i nagminne obrazy, szerzenie nienawiści, offtop, trolling, 57 warnów (16-06-2018), brak jakichkolwiek oznak poprawy
 
 
 ## Kandydaci do listy bez unbana
@@ -54,7 +55,6 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
 * [Mistrz](https://mrucznik-rp.pl/user/1583-mistrz/)
 * [levisjeans](https://mrucznik-rp.pl/user/3388-etylonorheksedron/)
 * [sasquatch](http://mrucznik-rp.pl/user/608-sasquatch/)
-* [Oficer](http://mrucznik-rp.pl/user/98-oficer/)
 * [David King (David\_/BooYah)](http://mrucznik-rp.pl/user/605-david-king/)
 * [habemus krzysztof/hersh](https://mrucznik-rp.pl/user/3899-habemus-krzysztof/)
 * [Holltrailer](http://mrucznik-rp.pl/user/359-holltrailer/)
