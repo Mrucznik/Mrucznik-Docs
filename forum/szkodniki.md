@@ -28,6 +28,7 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [kotgio](https://mrucznik-rp.pl/user/2428-kotgio/) - sell hajsu, masowe multikonta
 * [Galway Girl](https://mrucznik-rp.pl/user/10380-galway-girl/) - liczny offtop, obrazy, kolekcja warnów, niewykorzystana szansa.
 * [Oficer](http://mrucznik-rp.pl/user/98-oficer/) - liczne i nagminne obrazy, szerzenie nienawiści, offtop, trolling, 57 warnów (16-06-2018), brak jakichkolwiek oznak poprawy
+* [Poldi](https://mrucznik-rp.pl/user/17425-poldi/)/[CHIPS](https://mrucznik-rp.pl/user/17411-chips/)/[PanTadeusz](https://mrucznik-rp.pl/user/16423-pantadeusz/)/[_NEKTAR_](https://mrucznik-rp.pl/user/15101-nektar/)/[_Yamato_](https://mrucznik-rp.pl/user/14930-yamato/)/[_ROGAL_DDL_](https://mrucznik-rp.pl/user/14313-rogal-ddl/)/[Despacito](https://mrucznik-rp.pl/user/13627-despacito/)/[BosiakowieC](https://mrucznik-rp.pl/user/12802-bosiakowiec/)/[_BosioK_](https://mrucznik-rp.pl/user/11056-bosiok/)/[LonsdaLE](https://mrucznik-rp.pl/user/9161-lonsdale/)/[XardasoBosioK](https://mrucznik-rp.pl/user/8816-xardasobosiok/)/[Wake UP](https://mrucznik-rp.pl/user/6177-wake-up/)/[ DaxleR](https://mrucznik-rp.pl/user/230-daxler/) - nagminne multikonta
 
 
 ## Kandydaci do listy bez unbana
