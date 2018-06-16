@@ -25,7 +25,7 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [ala](https://mrucznik-rp.pl/user/3272-ala/) - 52 warny (2 grudnia 2017), liczny offtop, celowe błędy ortograficzne, obrazy, brak szans na poprawe, udostępnianie prywatnej korespondencji użytkowników
 * [Sevenity](https://mrucznik-rp.pl/user/584-sevenity/) - udostępnianie prywatynch danych użytkownika, nadużywanie uprawnień, obrazy, włam na konto byłego administratora, wyciek danych ze slacka, zmarnowanie szansy i złamanie zasad cyrografu
 * [qetsiyah](http://mrucznik-rp.pl/user/252-qetsiyah/)/[Beverly Rockmond](https://mrucznik-rp.pl/user/14628-beverly-rockmond/) sell hajsu, lista bez ub, liczne multikonta, powrót po definitywnym usunięciu konta
-* [kotgio](https://mrucznik-rp.pl/user/2428-kotgio/) - sell hajsu
+* [kotgio](https://mrucznik-rp.pl/user/2428-kotgio/) - sell hajsu, masowe multikonta
 * [Galway Girl](https://mrucznik-rp.pl/user/10380-galway-girl/) - liczny offtop, obrazy, kolekcja warnów, niewykorzystana szansa.
 * [Oficer](http://mrucznik-rp.pl/user/98-oficer/) - liczne i nagminne obrazy, szerzenie nienawiści, offtop, trolling, 57 warnów (16-06-2018), brak jakichkolwiek oznak poprawy
 
