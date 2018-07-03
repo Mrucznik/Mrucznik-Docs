@@ -9,7 +9,7 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [Caboty](https://mrucznik-rp.pl/user/628-caboty/) - rozsiewanie malware, reklamy
 * [kolanko rpk](https://mrucznik-rp.pl/user/4578-kolanko-rpk/)/[kolanko](https://mrucznik-rp.pl/user/1672-kolanko/)/bonus rpk/[Tomasz Tomaszewski](https://mrucznik-rp.pl/user/8221-tomasz-tomaszewski/) - obrazy, spam, trolling, liczne multikonta, ataki na forum, włamy
 * [DagerDJ](https://mrucznik-rp.pl/user/2785-dagerdj/)/[iGrubySSG](https://mrucznik-rp.pl/user/3270-igrubyssg/) - rozsiewanie/sprzedawanie keyloggera jako hacka do kasyna, multikonta
-* ~~[Azzam](https://mrucznik-rp.pl/user/4191-azzam/) - liczne multikonta, 30 warnów, szkalowanie ekipy forum, burdel na forum~~
+* [Azzam](https://mrucznik-rp.pl/user/4191-azzam/) - liczne multikonta, 30 warnów, szkalowanie ekipy forum, burdel na forum, piractwo, udostępnianie nielegalnych obrazów systemów
 * [Bagieta](https://mrucznik-rp.pl/user/769-bagieta/) - liczne obrazy administracji i użytkowników, brak kultury, multikonta, propagowanie osoby prywatnej (tematy szkalujące realnego gracza), wyśmiewanie się, poniżanie, wyzwiska.
 * [Arwex](https://mrucznik-rp.pl/user/408-arwex/) - multikonta, treści pornograficzne
 * [Dyzmiontko](https://mrucznik-rp.pl/user/663-dyzmiontko/) - 38 warnów, liczne obrazy, brak kultury, groźby, rozpowszechnianie wizerunku gracza
