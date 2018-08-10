@@ -37,6 +37,7 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [Connasse/Hey/Dżemik](https://mrucznik-rp.pl/user/4336-connasse/) - 72 notek (2 grudnia 2017), celowe błędy ortograficzne, offtop, spam, trolling, brak kultury, szambo na forum, obrazy, totalny brak poprawy
 * [Koraliczek](https://mrucznik-rp.pl/user/15075-koraliczek/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
 * [komunista dowell](https://mrucznik-rp.pl/user/2127-komunista-dowell/) - liczne obrazy, 50 notatek (11.02.2018), offtop, multikonta, spam
+* [cymbalista vjed/niceczłowiek/5777](https://mrucznik-rp.pl/user/8615-cymbalista-vjed/) - udostępnianie kodu mrucznik 2.5
 
 
 ## Kandydaci do listy bez unbana
@@ -88,4 +89,3 @@ Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [K E V L A R](https://mrucznik-rp.pl/user/7632-k-e-v-l-a-r/)
 * [KVMIL](https://mrucznik-rp.pl/user/1187-kvmil/)
 * [Bradus/Braduś](https://mrucznik-rp.pl/user/384-bradus/)
-* [cymbalista vjed/niceczłowiek/5777](https://mrucznik-rp.pl/user/8615-cymbalista-vjed/)
