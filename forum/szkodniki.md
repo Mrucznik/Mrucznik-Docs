@@ -29,41 +29,40 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [Galway Girl](https://mrucznik-rp.pl/user/10380-galway-girl/) - liczny offtop, obrazy, kolekcja warnów, niewykorzystana szansa.
 * [Oficer](http://mrucznik-rp.pl/user/98-oficer/) - liczne i nagminne obrazy, szerzenie nienawiści, offtop, trolling, 57 warnów (16-06-2018), brak jakichkolwiek oznak poprawy
 * [Poldi](https://mrucznik-rp.pl/user/17425-poldi/)/[CHIPS](https://mrucznik-rp.pl/user/17411-chips/)/[PanTadeusz](https://mrucznik-rp.pl/user/16423-pantadeusz/)/[_NEKTAR_](https://mrucznik-rp.pl/user/15101-nektar/)/[_Yamato_](https://mrucznik-rp.pl/user/14930-yamato/)/[_ROGAL_DDL_](https://mrucznik-rp.pl/user/14313-rogal-ddl/)/[Despacito](https://mrucznik-rp.pl/user/13627-despacito/)/[BosiakowieC](https://mrucznik-rp.pl/user/12802-bosiakowiec/)/[_BosioK_](https://mrucznik-rp.pl/user/11056-bosiok/)/[LonsdaLE](https://mrucznik-rp.pl/user/9161-lonsdale/)/[XardasoBosioK](https://mrucznik-rp.pl/user/8816-xardasobosiok/)/[Wake UP](https://mrucznik-rp.pl/user/6177-wake-up/)/[ DaxleR](https://mrucznik-rp.pl/user/230-daxler/) - nagminne multikonta
+* [kildra](https://mrucznik-rp.pl/user/7824-kildra/) - multikonta, liczne wulgaryzmy
+* [dinol mie swendzi](https://mrucznik-rp.pl/user/497-dinol-mie-swendzi/) aka albertos - spora kartoteka, reklama konkurencji, liczne obrazy i wulgaryzmy, offtop, brak kultury, trolling, brak szans na poprawe
+* [Shaggy](https://mrucznik-rp.pl/user/325-shaggy/) - gigantyczna kartoteka, brak kultury, liczne wulgaryzmy i obrazy, offtop, reklama konkurencji, mulikonta, brak szans na poprawe
+* [Snopek](http://mrucznik-rp.pl/user/735-snopek-essa/) - gigantyczna kartoteka, brak kultury, liczne wulgaryzmy i obrazy, offtop, reklama konkurencji, mulikonta, brak szans na poprawe
+* [Konto Dezaktywowane (Campil Trooper/chemik/XXXHZXXX)](https://mrucznik-rp.pl/user/6917-konto-dezaktywowane/) - gigantyczna kartoteka, reklama konkurencji, liczne obrazy i wulgaryzmy, multikonta, brak szans na poprawe
+* [Connasse/Hey/Dżemik](https://mrucznik-rp.pl/user/4336-connasse/) - 72 notek (2 grudnia 2017), celowe błędy ortograficzne, offtop, spam, trolling, brak kultury, szambo na forum, obrazy, totalny brak poprawy
+* [Koraliczek](https://mrucznik-rp.pl/user/15075-koraliczek/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
+* [komunista dowell](https://mrucznik-rp.pl/user/2127-komunista-dowell/) - liczne obrazy, 50 notatek (11.02.2018), offtop, multikonta, spam
 
 
 ## Kandydaci do listy bez unbana
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
-* [kildra](https://mrucznik-rp.pl/user/7824-kildra/)
-* [wojtek brkln](https://mrucznik-rp.pl/user/569-wojtek-brkln/)
-* [dinol mie swendzi](https://mrucznik-rp.pl/user/497-dinol-mie-swendzi/)
-* [\_Daniel\_](https://mrucznik-rp.pl/user/229-daniel/)
+* [JOSEF MENGELE/wojtek brooklyn/wojtek brkln](https://mrucznik-rp.pl/user/569-wojtek-brkln/) - liczne obrazy, liczne multikonta, offtop, brak jakiejkolwiek poprawy, gigantyczna kartoteka, 62 warnów (2 grudnia 2017), liczne obrazy, offtop, brak kultury, nagminne wulgaryzmy, ogólne szambo
+* [\_Daniel\_](https://mrucznik-rp.pl/user/229-daniel/) - gigantyczna kartoteka, liczne obrazy, offtop, liczne wulgaryzmy, brak szans na poprawe
 * [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - 33 warny, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa
-* [Connasse/Hey/Dżemik](https://mrucznik-rp.pl/user/4336-connasse/) - 72 notek (2 grudnia 2017), celowe błędy ortograficzne, offtop, spam, trolling, brak kultury, szambo na forum, obrazy, totalny brak poprawy
 * [hesho](https://mrucznik-rp.pl/user/5669-hesho-g-star/)- 67 warnów (2 grudnia 2017), liczne orbazy, brak kultury, nagminne wulgaryzmy, ogólne szambo
-* [JOSEF MENGELE/wojtek brooklyn](https://mrucznik-rp.pl/user/569-josef-mengele/) - 62 warnów (2 grudnia 2017), liczne obrazy, offtop, brak kultury, nagminne wulgaryzmy, ogólne szambo
 * [jmpr ue](http://mrucznik-rp.pl/user/1175-jmpr-ue/) - 60 warnów (2 grudnia 2017), obrazy, offtop, brak poprawy, ogólne szkodzenie
 * [\_Patrykoo\_](http://mrucznik-rp.pl/user/150-patrykoo/) - 56 warnów (2 grudnia 2017), liczne obrazy, offtop, nagminne wulgaryzmy, brak poprawy
 * [fidif](https://mrucznik-rp.pl/user/306-fidif/) - 52 warny (2 grudnia 2017), masa notatek za orbazy, brak poprawy, offtop, totalny brak kultury i szans na poprawe
 * [Pan Morisson](https://mrucznik-rp.pl/user/531-pan-morisson/) - 51 warnów (2 grudnia 2017), liczny offtop, obrazy, ogólne szambo, brak poprawy
 * [en6x](http://mrucznik-rp.pl/user/4791-en6x/) - 49 warnów (2 grudnia 2017), liczne obrazy, offtop, brak szansy na poprawe
-* [Shaggy](https://mrucznik-rp.pl/user/325-shaggy/)
-* [LuuckyDice](https://mrucznik-rp.pl/user/8703-luuckydice/)
-* [Snopek](http://mrucznik-rp.pl/user/735-snopek-essa/)
-* [OYCHE DONIZ](http://mrucznik-rp.pl/user/911-oyche-doniz/)
-* [don faraone](https://mrucznik-rp.pl/user/1119-lil-frachty/)
-* [PRT](https://mrucznik-rp.pl/user/267-prt/)
-* [Konto Dezaktywowane (Campil Trooper)](https://mrucznik-rp.pl/user/6917-konto-dezaktywowane/)
-* [Mistrz](https://mrucznik-rp.pl/user/1583-mistrz/)
-* [levisjeans](https://mrucznik-rp.pl/user/3388-etylonorheksedron/)
-* [sasquatch](http://mrucznik-rp.pl/user/608-sasquatch/)
-* [David King (David\_/BooYah)](http://mrucznik-rp.pl/user/605-david-king/)
-* [habemus krzysztof/hersh](https://mrucznik-rp.pl/user/3899-habemus-krzysztof/)
-* [Holltrailer](http://mrucznik-rp.pl/user/359-holltrailer/)
+* [LuuckyDice](https://mrucznik-rp.pl/user/8703-luuckydice/) - liczne obrazy, offtop, liczne wulgaryzmy, gigantyczna kartoteka,
+* [OYCHE DONIZ](http://mrucznik-rp.pl/user/911-oyche-doniz/) - gigantyczna kartoteka, liczne obrazy, offtop, prowokacje, brak kultury
+* [don faraone](https://mrucznik-rp.pl/user/1119-lil-frachty/) - gigantyczna kartoteka, offtop, liczne obrazy i wulgaryzmy, treści pornograficzne, brak kultury, vpn
+* [PRT](https://mrucznik-rp.pl/user/267-prt/) - gigantyczna kartoteka, offtop, liczne i masowe obrazy, brak kultury
+* [Mistrz](https://mrucznik-rp.pl/user/1583-mistrz/) - gigantyczna kartoteka, liczne multikonta, liczne i nagminne obrazy/wulgaryzmy, brak kultury
+* [levisjeans/nexiv/levisj](https://mrucznik-rp.pl/user/3388-etylonorheksedron/) - spora kartoteka, offtop, liczne obrazy, nabijanie postów, multikonta
+* [sasquatch/młody sasku](http://mrucznik-rp.pl/user/608-sasquatch/) - spora kartoteka, liczne i nagmine obrazy/wulgaryzmy, offtop, pornografia
+* [David King (David\_/BooYah)](http://mrucznik-rp.pl/user/605-david-king/) - spora kartoteka, liczne i nagminne obrazy, offtop
+* [habemus krzysztof/hersh](https://mrucznik-rp.pl/user/3899-habemus-krzysztof/) - spora kartoteka, liczne obrazy, straszaki
+* [Holltrailer](http://mrucznik-rp.pl/user/359-holltrailer/) - spora kartoteka, offtop, multikonta, liczne obrazy, wulgaryzmy
 * [KobaltowyEryk/AlbertStulej](https://mrucznik-rp.pl/user/301-kobaltowyeryk/) - masa multikont, offtop, obrazy
 * [PHC](https://mrucznik-rp.pl/user/194-phc/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
-* [Koraliczek](https://mrucznik-rp.pl/user/15075-koraliczek/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
 * [Bleku/Blekuś](https://mrucznik-rp.pl/user/9598-bleku%C5%9B/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
-* [komunista dowell](https://mrucznik-rp.pl/user/2127-komunista-dowell/) - liczne obrazy, 50 notatek (11.02.2018), offtop, multikonta, spam
 
 
 
