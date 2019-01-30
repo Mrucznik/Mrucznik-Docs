@@ -2,7 +2,7 @@
 *Postanowienia Ogólne dla administracji*
 
 **Art. 1.** Każdy administrator ma obowiązek:
-dawać swoim zachowaniem i działaniami dobry przykład innym graczom
+dawać [dupy] swoim zachowaniem i działaniami dobry przykład innym graczom
 przestrzegać obowiązujących zasad i regulaminów
 zgłaszać wszelkie nieprawidłowości odpowiednim osobom lub organom
 odnosić się z szacunkiem do innych osób a w szczególności administratorów znajdujących się na wyższych stanowiskach
