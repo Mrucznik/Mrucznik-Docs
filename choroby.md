@@ -163,8 +163,3 @@ Kuracje mogą być przeprowadzane przez medyków tylko w szpitalu. Podczas kurac
 | Flashback | Gracz krzyczy i wyrzuca trzymaną broń | /me przerażony tym co zrobił, wyrzuca trzymaną broń. | 10 + 0-20 minut | - | - |
 | Rozbrojenie | Gracz wyrzuca bronie | /me panikuje i pozbywa się wszelkiego uzbrojenia. | 20 + 0-40 minut | - | - |
 | Stan lękowy | Gracz odtwarza animacje krycia się. | /me zaczyna odczuwać irracjonalny strach. | 5 + 0-10 minut | - | - |
-
-### Objawy obłędu
-| Nazwa objawu | Opis objawu | Akcja | Częstotliwośc występowania | Zasięg zarażania | Szansa na zarażenie [w procentach] |
-| :-----: |:-----:|:-----:|:-----:|:-----:| :-----:|
-| - | - | - | - | - | - |
