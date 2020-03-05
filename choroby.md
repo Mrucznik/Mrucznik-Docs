@@ -48,7 +48,7 @@ Kuracje mogą być przeprowadzane przez medyków tylko w szpitalu. Podczas kurac
 ## Choroby
 | Nazwa | Koszt kuracji | Czas kuracji | Lekoodporność | Zaraźliwa | Zarażanie przy kontakcie | objawy | Sposób zarażenia |
 | :-----: |:-----:|:-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-| Koronawirus | 1000$ | 20 sekund | 95% | tak | tak | [objawy](#objawy-koronawirusa) | 50% szans przy zjedzeniu nietoperza z Wuhan w pięciu smakach |
+| Koronawirus | 1000$ | 20 sekund | 60% | tak | tak | [objawy](#objawy-koronawirusa) | 50% szans przy zjedzeniu nietoperza z Wuhan w pięciu smakach |
 | Grypa | 25.000$ | 2 minuty | 0% | tak | nie | [objawy](#objawy-grypy) | Jeżeli gracz przez godzinę będzie pozostawał z HP mniejszym niż 20 |
 | Zapalenie płuc | 100.000$ | 4 minuty | 30% | tak | nie | [objawy](#objawy-zapalenia-płuc) | Przy objawach grypy (kaszel) 5% |
 | Zatrucie | 10.000$ | 30 sekund | 20% | tak | nie | [objawy](#objawy-zatrucia) | 5% szans na zarażenie przy /zjedz |
@@ -62,7 +62,7 @@ Kuracje mogą być przeprowadzane przez medyków tylko w szpitalu. Podczas kurac
 | Parkinson/Niedowład rąk | 150.000$ | 10 minut | 25% | nie | nie | [objawy](#objawy-parkinsona) | 0.1% podczas dostania w rękę + 1% szans przy objawach gangreny |
 | Uraz | 10.000$ | 1 minuta | 0% | nie | nie | [objawy](#objawy-urazu) | 5% szans podczas BW |
 | Gangrena | 75.000$ | 2 minut | 75% | nie | tak | [objawy](#objawy-gangreny) | 5% szans podczas objawów urazu |
-| PTSD | 15.000$ | 1 minut | 90% | nie | nie | [objawy](#objaw-PTSD) | Gdy gracz zabije 10 osób w ciągu 10minut ma 20% szans na PTSD |
+| PTSD | 15.000$ | 1 minut | 85% | nie | nie | [objawy](#objaw-PTSD) | Gdy gracz zabije 10 osób w ciągu 10minut ma 20% szans na PTSD |
 
 ### Objawy koronawirusa
 | Nazwa objawu | Opis objawu | Akcja | Częstotliwośc występowania | Zasięg zarażania | Szansa na zarażenie [w procentach] |
