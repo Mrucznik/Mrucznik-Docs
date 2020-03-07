@@ -2,7 +2,7 @@
 
 Na serwer został wprowadzony system chorób. Umożliwia on zarażenie gracza dowolną liczbą chorób, które powodują objawy okresowe lub stałe.
 
-## Choroby
+## Choroby 
 Choroby posiadają następujące parametry:
 - koszt kuracji
 - czas potrzebny na przeprowadzenie kuracji i wyleczenie gracza
@@ -27,42 +27,44 @@ Aktywacja objawu może powodować zarażanie graczy, którzy stoją obok.
 
 ## Zakaźność
 Choroby mogą być zakaźne. Mogą zarażać na 2 sposoby: poprzez kontakt fizyczny (uderzenie bronią białą bądź pięścią), bądź drogą kropelkową (zarażają osoby w danym obszarze podczas wybranego objawu).
-Szansa na zarażenie się chorobą poprzez kontakt fizyczny wynosi domyślnie 10%, ale może różnić się w zależności od choroby.
+Szansa na zarażenie się chorobą poprzez kontakt fizyczny wynosi domyślnie 0,01%, ale może różnić się w zależności od choroby.
 Szansa na zarażenie się chorobą drogą kropelkową jest wywoływana podczas wywołania danego objawu i zależy od szans na zarażenie ustawionych w objawie.
 
 ## Odporność
 Gracz ma określoną odporność na choroby. Odporność gracza może zostać przywrócona z pomocą zastrzyku od lekarza. Po takim zastrzyku gracz będzie odporny na kilka sytuacji zakaźnych. W przypadku otrzymania od gracza zastrzyku podczas choroby, zniweluje on na jakiś czas występowanie objawów choroby.
+Za każdym razem gdy gracz ochronił się przed chorobą otrzymuje informację, że jego odporność spadła i podawany jest nowy stan odporności. Gdy odporność jest równa zero gracz otrzymuje ostrzeżenie wraz z sygnałem dźwiękowym.
 
 ## Kuracje
-Kuracje mogą być przeprowadzane przez medyków tylko w szpitalu. Podczas kuracji gracz otrzymuje animację leżenia oraz musi znajdować się przy medyku. Po określonym czasie, zależnym od choroby, gracz dowiaduje się, czy kuracja się powiodła, czy też nie. Szanse na pozytywne zakończenie kuracji zależą od choroby. Podczas trwania kuracji objawy choroby nie są aktywowane. Koszty kuracji są zależne od choroby, medyk może pobrać dodatkową opłatę (prowizję) za kurację, które będzie jego wynagrodzeniem. Reszta opłaty trafi do sejfu SAM-ERS.
+Kuracje mogą być przeprowadzane przez medyków tylko w szpitalu. Podczas kuracji gracz otrzymuje animację leżenia oraz musi znajdować się przy medyku (zwiększyć zasięg dwukrotnie). Po określonym czasie, zależnym od choroby, gracz dowiaduje się, czy kuracja się powiodła, czy też nie. Szanse na pozytywne zakończenie kuracji zależą od choroby. Podczas trwania kuracji objawy choroby nie są aktywowane. Koszty kuracji są zależne od choroby, medyk może pobrać dodatkową opłatę (prowizję) za kurację, które będzie jego wynagrodzeniem. Reszta opłaty trafi do sejfu SAM-ERS.
 
 ## Komendy:
 - /**zaraz [id] [choroba]** *(Administracyjna)* - Zaraża gracza chorobą. Aby wyleczyć gracza należy wpisać /zaraz [id] wylecz.
 - /**uleczall** *(Administracyjna)* - Leczy wszystkich graczy z wszystkich chorób na serwerze.
-- /**kuracja [id] [choroba] [prowizja]** *(tylko medycy 2 ranga)* - Składa propozycje kuracji choroby gracza. Gracz może akceptować kurację za pomocą komendy /akceptuj kuracja.
-- /**diagnozuj [id]** *(tylko medycy)* - Diagnozuje choroby gracza.
-- /**zastrzyk [id]** *(tylko medycy 1 ranga)* - Zmieniono działanie komendy - komenda zwiększa odporność gracza, gdy ten jest zdrowy, lub usuwa na jakiś czas objawy jego choroby (gdy ten jest chory).
-- /**maseczka [id] [cena]** *(tylko medycy 1 ranga)* - Oferuje graczowi sprzedaż maseczki. Maseczka ustawia odporność gracza na 10. Maseczkę może nosić tylko zdrowy gracz.
+- /**kuracja [choroba] [prowizja] [id] ** *(tylko medycy 2 ranga)* - Składa propozycje kuracji choroby gracza. Gracz może akceptować kurację za pomocą komendy /akceptuj kuracja.
+- /**diagnozuj [id]** *(tylko medycy)* - Diagnozuje choroby gracza. Po wpisaniu komendy pojawia się /me i badaniu i pokazaniu graczowi wyników. Gracz otrzymuje taką samą informację o chorobie co medyk. 
+- /**zastrzyk [id]** *(tylko medycy 1 ranga)* - Zmieniono działanie komendy - komenda zwiększa odporność gracza, gdy ten jest zdrowy, lub usuwa na jakiś czas objawy jego choroby (gdy ten jest chory) oraz przywraca jego HP do 100
+- /**maseczka [cena] [id]** *(tylko medycy i praca cywila: ochroniarz)* - Oferuje graczowi sprzedaż maseczki. Maseczka ustawia odporność gracza na 10. Maseczkę może nosić każdy gracz.
+Słabszą wersję maseczki można również nabyć w 24/7 za 15.000$
 
 
 ## Choroby
 | Nazwa | Koszt kuracji | Czas kuracji | Lekoodporność | Zaraźliwa | Zarażanie przy kontakcie | objawy | Sposób zarażenia |
 | :-----: |:-----:|:-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-| Koronawirus | 1000$ | 20 sekund | 60% | tak | tak | [objawy](#objawy-koronawirusa) | 50% szans przy zjedzeniu nietoperza z Wuhan w pięciu smakach |
-| Grypa | 25.000$ | 2 minuty | 0% | tak | nie | [objawy](#objawy-grypy) | Jeżeli gracz przez godzinę będzie pozostawał z HP mniejszym niż 20 |
-| Zapalenie płuc | 100.000$ | 4 minuty | 30% | tak | nie | [objawy](#objawy-zapalenia-płuc) | Przy objawach grypy (kaszel) 5% |
-| Zatrucie | 10.000$ | 30 sekund | 20% | tak | nie | [objawy](#objawy-zatrucia) | 5% szans na zarażenie przy /zjedz |
-| Padaczka | 200.000$ | 10 minut | 10% | nie | nie | [objawy](#objawy-padaczki) | Niewielka szansa (0.5%) podczas otrzymania postrzału w głowę |
-| Zespół Touretta | 100.000$ | 5 minut | 50% | nie | nie | [objawy](#objawy-touretta) | Gdy gracz przekroczy licznik przekleństw na chatach IC powyżej 60 na godzinę |
-| Astma | 25.000$ | 1 minuta | 40% | nie | nie | [objawy](#objawy-astmy) | Śmierć przez utopienie 50% |
-| Schizofrenia paranoidalna | 300.000$ | 20 minut | 5% | nie | nie | [objawy](#objawy-schizofrenii) | 2% szans gdy gracz zażywa narkotyki |
+| Koronawirus | 1000$ | 20 sekund | 30% | tak | tak | [objawy](#objawy-koronawirusa) | 50% szans przy zjedzeniu nietoperza z Wuhan w pięciu smakach |
+| Grypa | 25.000$ | 2 minuty | 5% | tak | nie | [objawy](#objawy-grypy) | Jeżeli gracz przez godzinę będzie pozostawał z HP mniejszym niż 20 |
+| Zapalenie płuc | 100.000$ | 4 minuty | 15% | tak | nie | [objawy](#objawy-zapalenia-płuc) | Przy objawach grypy (kaszel) 5% |
+| Zatrucie | 10.000$ | 30 sekund | 10% | tak | nie | [objawy](#objawy-zatrucia) | 5% szans na zarażenie przy /zjedz |
+| Padaczka | 200.000$ | 10 minut | 5% | nie | nie | [objawy](#objawy-padaczki) | Niewielka szansa (0.5%) podczas otrzymania postrzału w głowę |
+| Zespół Touretta | 100.000$ | 5 minut | 25% | nie | nie | [objawy](#objawy-touretta) | Gdy gracz przekroczy licznik przekleństw na chatach IC powyżej 60 na godzinę |
+| Astma | 25.000$ | 1 minuta | 20% | nie | nie | [objawy](#objawy-astmy) | Śmierć przez utopienie 50% |
+| Schizofrenia paranoidalna | 300.000$ | 20 minut | 2% | nie | nie | [objawy](#objawy-schizofrenii) | 2% szans gdy gracz zażywa narkotyki |
 | Epidemia zombie | 1.000$ | 30 sekund | 10% | bardzo | tak | [objawy](#objawy-zombie) | Tylko od admina |
 | HIV | 100.000$ | 5 minut | 1% | tak | tak | [objawy](#objawy-zombie) | Podczas seksu bez zabezpieczeń |
-| Astygmatyzm | 100.000$ | 7 minut | 45% | nie | nie | [objawy](#objawy-astygmatyzmu) | 0.01% przy strzelaniu |
-| Parkinson/Niedowład rąk | 150.000$ | 10 minut | 25% | nie | nie | [objawy](#objawy-parkinsona) | 0.1% podczas dostania w rękę + 1% szans przy objawach gangreny |
-| Uraz | 10.000$ | 1 minuta | 0% | nie | nie | [objawy](#objawy-urazu) | 5% szans podczas BW |
-| Gangrena | 75.000$ | 2 minut | 75% | nie | tak | [objawy](#objawy-gangreny) | 5% szans podczas objawów urazu |
-| PTSD | 15.000$ | 1 minut | 85% | nie | nie | [objawy](#objaw-PTSD) | Gdy gracz zabije 10 osób w ciągu 10minut ma 20% szans na PTSD |
+| Astygmatyzm | 100.000$ | 7 minut | 20% | nie | nie | [objawy](#objawy-astygmatyzmu) | 0.01% przy strzelaniu |
+| Parkinson/Niedowład rąk | 150.000$ | 10 minut | 13% | nie | nie | [objawy](#objawy-parkinsona) | 0.1% podczas dostania w rękę + 1% szans przy objawach gangreny |
+| Uraz | 10.000$ | 1 minuta | 5% | nie | nie | [objawy](#objawy-urazu) | 5% szans podczas BW |
+| Gangrena | 75.000$ | 2 minut | 35% | nie | tak | [objawy](#objawy-gangreny) | 5% szans podczas objawów urazu |
+| PTSD | 15.000$ | 1 minut | 40% | nie | nie | [objawy](#objaw-PTSD) | Gdy gracz zabije 10 osób w ciągu 10minut ma 20% szans na PTSD |
 
 ### Objawy koronawirusa
 | Nazwa objawu | Opis objawu | Akcja | Częstotliwośc występowania | Zasięg zarażania | Szansa na zarażenie [w procentach] |
