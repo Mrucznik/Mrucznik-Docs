@@ -39,7 +39,7 @@ Kuracje mogą być przeprowadzane przez medyków tylko w szpitalu. Podczas kurac
 
 ## Komendy:
 - /**zaraz [id] [choroba]** *(Administracyjna)* - Zaraża gracza chorobą. Aby wyleczyć gracza należy wpisać /zaraz [id] wylecz.
-- /**uleczall** *(Administracyjna)* - Leczy wszystkich graczy z wszystkich chorób na serwerze.
+- /**uleczall** *(Administracyjna dla @lvl 5000)* - Leczy wszystkich graczy z wszystkich chorób na serwerze.
 - /**kuracja [choroba] [prowizja] [id] ** *(tylko medycy 2 ranga)* - Składa propozycje kuracji choroby gracza. Gracz może akceptować kurację za pomocą komendy /akceptuj kuracja.
 - /**diagnozuj [id]** *(tylko medycy)* - Diagnozuje choroby gracza. Po wpisaniu komendy pojawia się /me i badaniu i pokazaniu graczowi wyników. Gracz otrzymuje taką samą informację o chorobie co medyk. 
 - /**zastrzyk [id]** *(tylko medycy 1 ranga)* - Zmieniono działanie komendy - komenda zwiększa odporność gracza, gdy ten jest zdrowy, lub usuwa na jakiś czas objawy jego choroby (gdy ten jest chory) oraz przywraca jego HP do 100
