@@ -27,7 +27,7 @@ Aktywacja objawu może powodować zarażanie graczy, którzy stoją obok.
 
 ## Zakaźność
 Choroby mogą być zakaźne. Mogą zarażać na 2 sposoby: poprzez kontakt fizyczny (uderzenie bronią białą bądź pięścią), bądź drogą kropelkową (zarażają osoby w danym obszarze podczas wybranego objawu).
-Szansa na zarażenie się chorobą poprzez kontakt fizyczny wynosi domyślnie 0,1%, ale może różnić się w zależności od choroby, jednak nie więcej niż 1%
+Szansa na zarażenie się chorobą poprzez kontakt fizyczny wynosi domyślnie 0,5%, ale może różnić się w zależności od choroby.
 Szansa na zarażenie się chorobą drogą kropelkową jest wywoływana podczas wywołania danego objawu i zależy od szans na zarażenie ustawionych w objawie.
 
 ## Odporność
