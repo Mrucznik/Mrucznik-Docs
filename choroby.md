@@ -64,7 +64,7 @@ Słabszą wersję maseczki można również nabyć w 24/7 za 15.000$
 | Parkinson/Niedowład rąk | 150.000$ | 10 minut | 13% | nie | nie | [objawy](#objawy-parkinsona) | 0.1% podczas dostania w rękę + 1% szans przy objawach gangreny |
 | Uraz | 10.000$ | 1 minuta | 5% | nie | nie | [objawy](#objawy-urazu) | 5% szans podczas BW |
 | Gangrena | 75.000$ | 2 minut | 35% | nie | tak | [objawy](#objawy-gangreny) | 5% szans podczas objawów urazu |
-| PTSD | 15.000$ | 1 minut | 40% | nie | nie | [objawy](#objaw-PTSD) | Gdy gracz zabije 10 osób w ciągu 10minut ma 20% szans na PTSD |
+| PTSD | 150.000$ | 1 minut | 40% | nie | nie | [objawy](#objaw-PTSD) | Gdy gracz zabije 10 osób w ciągu 10minut ma 20% szans na PTSD |
 
 ### Objawy koronawirusa
 | Nazwa objawu | Opis objawu | Akcja | Częstotliwośc występowania | Zasięg zarażania | Szansa na zarażenie [w procentach] |
