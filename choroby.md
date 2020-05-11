@@ -53,7 +53,7 @@ Słabszą wersję maseczki można również nabyć w 24/7 za 15.000$
 | Koronawirus | 1000$ | 20 sekund | 30% | tak | tak | [objawy](#objawy-koronawirusa) | 50% szans przy zjedzeniu nietoperza z Wuhan w pięciu smakach |
 | Grypa | 25.000$ | 1 minutz | 5% | tak | nie | [objawy](#objawy-grypy) | Jeżeli gracz przez godzinę będzie pozostawał z HP mniejszym niż 20 |
 | Zapalenie płuc | 100.000$ | 2 minuty | 15% | tak | nie | [objawy](#objawy-zapalenia-płuc) | Przy objawach grypy (kaszel) 5% |
-| Zatrucie | 10.000$ | 30 sekund | 10% | tak | nie | [objawy](#objawy-zatrucia) | 5% szans na zarażenie przy /zjedz |
+| Zatrucie | 10.000$ | 30 sekund | 10% | tak | nie | [objawy](#objawy-zatrucia) | 1% szans na zarażenie przy /zjedz |
 | Padaczka | 200.000$ | 2.5 minuty | 5% | nie | nie | [objawy](#objawy-padaczki) | Niewielka szansa (0.5%) podczas otrzymania postrzału w głowę |
 | Zespół Touretta | 100.000$ | 2.5 minut | 25% | nie | nie | [objawy](#objawy-touretta) | Gdy gracz przekroczy licznik przekleństw na chatach IC powyżej 60 na godzinę |
 | Astma | 25.000$ | 30 sekund | 20% | nie | nie | [objawy](#objawy-astmy) | Śmierć przez utopienie 50% |
